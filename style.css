@@ -1,0 +1,21 @@
+.grid{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: solid 1px rgb(14, 254, 54);
+}
+
+.mole{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQS_hUE5DiiWX_rO9EXfaNTwXL4HFeEV_Sw&usqp=CAU);
+
+}
+body{
+    color: aqua;
+    background: url(https://png.pngtree.com/thumb_back/fw800/background/20211025/pngtree-bottom-console-image_913604.png);
+}
